@@ -13,5 +13,5 @@ This is only a trial for makdown grammer used in github pages.
           ...                  ...                  ...
 ```
 
-Absolutely, it is quite useful in many stages, hope for a great future.
+Absolutely, it is quite useful in many situations, hope for a great future.
 
